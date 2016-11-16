@@ -1,0 +1,15 @@
+{
+	"user": {
+		"name": "vsheshin"
+	},
+	"pets": [
+		{
+			"name": "Zildjian",
+			"type": "cat"
+		},
+		{
+			"name": "Doge",
+			"type": "dog"
+		}
+	]
+}
